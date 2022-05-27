@@ -1,0 +1,12 @@
+,column name,Drift detected?,Test Type,Test value,p-value
+0,Age,yes,K-S,0.0436,0.016747637
+1,Experience,yes,K-S,0.0392,0.0417843
+2,Income,yes,K-S,0.0384,0.048829064
+3,Family,no,Chi2,3.9552164,0.26634073
+4,CCAvg,yes,K-S,0.0532,0.0016267922
+5,Education,no,Chi2,1.8411056,0.3982988
+6,Mortgage,yes,K-S,0.042,0.023616457
+7,Securities_Account,no,Chi2,1.3368893,0.2475833
+8,CD_Account,no,Chi2,0.2854533,0.593149
+9,Online,no,Chi2,0.0074803713,0.9310776
+10,CreditCard,no,Chi2,0.27846834,0.5977069
